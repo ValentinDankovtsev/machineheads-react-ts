@@ -1,0 +1,9 @@
+.authors-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 16px;
+}
+
+.authors-error-alert {
+  margin-bottom: 16px;
+}

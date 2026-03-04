@@ -1,0 +1,9 @@
+.tags-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 16px;
+}
+
+.tags-error-alert {
+  margin-bottom: 16px;
+}

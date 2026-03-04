@@ -1,0 +1,27 @@
+.main-layout {
+  min-height: 100vh;
+}
+
+.logo-placeholder {
+  height: 32px;
+  margin: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.site-layout-header {
+  padding: 0 16px;
+  background: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.site-layout-background-wrapper {
+  margin: 24px 16px;
+  padding: 24px;
+  min-height: 280px;
+  background: #fff;
+  overflow: auto;
+}

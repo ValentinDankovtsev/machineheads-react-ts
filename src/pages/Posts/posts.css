@@ -1,0 +1,10 @@
+.posts-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+}
+
+.posts-error-alert {
+  margin-bottom: 16px;
+}
